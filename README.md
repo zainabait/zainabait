@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zainab Ait belaid</h1>
 <h3 align="center">Heeeeeey! Welcome to my GitHub account :)</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zainabait&label=Profile%20views&color=0e75b6&style=flat" alt="zainabait" /> </p>
+
 
 - 🌱 I’m currently learning *programming and related skills diving into the world of coding and beyond.*
 
