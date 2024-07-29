@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabait&show_icons=true&locale=en&layout=compact" alt="zainabait" /></p>
 
-<p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zainabait&show_icons=true&locale=en" alt="zainabait" /></p><br>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=zainabait&show_icons=true&locale=en" alt="zainabait" /></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabait&" alt="zainabait" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabait&" alt="zainabait" /></p>
